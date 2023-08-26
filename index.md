@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: EMPOWERING LIVES WITH SWIFT AID NDIS PROVIDER
+  title: Empowering lives with Swif Aid NDIS provider
   text: >
     Navigating the world of disability care, swiftly and compassionately!
     Reach out to us swiftly, and let's embark on this journey together.
@@ -26,23 +26,23 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: Professional Services
+        text: Our team is friendly, professional and skilled with the necessary qualifications to look after you or your loved ones.
         icon: bi-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
+        # url: https://startbootstrap.com/
+      - title: Swift Services
+        text: We aim to !
         icon: bi-rocket-takeoff
       - title: Up to Date
-        text: We update dependencies to keep things fresh.
+        text: We update our staff with the latest .
         icon: bi-activity
       - title: Made with Love
-        text: You have to make your websites with love these days!
+        text: Caring is our own priority!
         icon: bi-heart-fill
-      - title: Other 1
-        text: Some not-so long text here.
+      - title: Providing you with Care
+        text: Our support workers will put a smile on your face
         icon: bi-emoji-heart-eyes
-      - title: Other 2
+      - title: Making you Happy
         text: Some not-so long text here.
         icon: bi-emoji-sunglasses-fill
 
