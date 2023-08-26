@@ -1,10 +1,10 @@
 ---
 layout: home
 header:
-  title: YOUR FAVORITE SOURCE OF FREE BOOTSTRAP THEMES
+  title: EMPOWERING LIVES WITH SWIFT AID NDIS PROVIDER
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Navigating the world of disability care, swiftly and compassionately!
+    Reach out to us swiftly, and let's embark on this journey together.
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -13,9 +13,9 @@ header:
 sections:
   - type: call-to-action.html
     section_id: about
-    background_style: bg-primary
+    background_style: bg-indigo
     title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    text: At Swift Aid, we're not just a support provider; we're your partners on the path to empowerment. Our commitment to swiftly delivering care, and support to individuals with disabilities is unwavering. With compassion as our cornerstone and swiftness as our guide, we're here to help you conquer challenges, embrace opportunities, and create a life that's as unique as you are.
     actions:
       - title: Get Started!
         url: '#page-top'
