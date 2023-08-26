@@ -13,7 +13,7 @@ header:
 sections:
   - type: call-to-action.html
     section_id: about
-    background_style: bg-dark
+    background_style: bg-indigo
     title: We've got what you need!
     text: At Swift Aid, we're not just a support provider; we're your partners on the path to empowerment. Our commitment to swiftly delivering care, and support to individuals with disabilities is unwavering. With compassion as our cornerstone and swiftness as our guide, we're here to help you conquer challenges, embrace opportunities, and create a life that's as unique as you are.
     actions:
