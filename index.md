@@ -87,35 +87,35 @@ sections:
         url: https://startbootstrap.com/themes/creative/
         class: btn-light
 
-  - type: members.html
-    section_id: members
-    title: Our Crew!
-    background_style: bg-info text-white
-    members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
-        url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
-        url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
+  # - type: members.html
+  #   section_id: members
+  #   title: Our Crew!
+  #   background_style: bg-info text-white
+  #   members:
+  #     - title: Christina M. Aponte
+  #       text: Singer and Songwriter
+  #       image: assets/img/members/person1.jpg
+  #       url: '#'
+  #     - title: Gary D. Stevens
+  #       text: Bass guitar.
+  #       image: assets/img/members/person2.jpg
+  #       url: '#'
+  #     - title: Devon J. Fletcher
+  #       text: Lead guitar.
+  #       image: assets/img/members/person3.jpg
+  #       url: '#'
+  #     - title: Todd E. Anderson
+  #       text: Drums, percussion.
+  #       image: assets/img/members/person5.jpg
+  #       url: '#'
+  #     - title: Daniel T. Riley
+  #       text: Musician, songwriter, producer.
+  #       image: assets/img/members/person6.jpg
+  #       url: '#'
+  #     - title: Ella P. Walter
+  #       text: PR.
+  #       image: assets/img/members/person7.jpg
+  #       url: '#'
 
   - type: timeline.html
     section_id: timeline
@@ -145,16 +145,16 @@ sections:
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: +1 (202) 555-014
+    - title: 04 333 92 777
       icon: bi-telephone-fill
-    - title: E-Mail
+    - title: Email
       icon: bi-envelope-fill
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: bi-twitter
-      url: '#'
+      url: mailto:info@swiftaid.com.au
+    - title: Instagram
+      icon: bi-instagram
+      url: 'https://www.instagram.com/swiftaid.com.au'
     - title: Facebook
       icon: bi-facebook
-      url: '#'
+      url: 'https://www.facebook.com/swiftaid.com.au'
 
 ---
