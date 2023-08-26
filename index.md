@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: Empowering lives with Swif Aid NDIS provider
+  title: Empowering lives with Swift Aid NDIS provider
   text: >
     Navigating the world of disability care, swiftly and compassionately!
     Reach out to us swiftly, and let's embark on this journey together.
